@@ -41,5 +41,4 @@ void loop() {
   Blynk.virtualWrite(V0, t); 
   Blynk.virtualWrite(V1, h);
   delay(2000);
-
 }
